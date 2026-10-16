@@ -32,7 +32,6 @@ The database consists of seven main tables:
 7. **Results:** Stores participants' finishing times and finishing positions.
 
 Primary keys and foreign keys are used to maintain relationships between the tables.
-
 The API connects to SQL Server using ADO.NET and parameterised SQL queries.
 
 ### 4. RESTFUL API IMPLEMENTATION
