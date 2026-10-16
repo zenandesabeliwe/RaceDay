@@ -38,14 +38,11 @@ Primary keys and foreign keys are used to maintain relationships between the tab
 The API connects to SQL Server using ADO.NET and parameterised SQL queries.
 
 ### 4. RESTFUL API IMPLEMENTATION
-
 The application contains seven controllers responsible for managing different system operations.
 
 **4.1 AuthController**
 The AuthController manages user registration, login and logout.
-
 Users can register as either Organisers or Participants. Passwords are hashed using BCrypt before being stored in the database.
-
 During login, the system verifies the entered password against the stored password hash.
 Sessions are used to maintain user login information.
 
