@@ -4,7 +4,6 @@
 ### 1. PROJECT OVERVIEW
 
 RaceDay is an System developed using ASP.NET Core Web API and C#. The system allows organisers to create and manage sporting events, while participants can register, enrol in events and view their race results.
-
 The project was developed using Visual Studio 2022 and connected to a SQL Server database. It uses RESTful API endpoints to perform operations such as creating, retrieving, updating and deleting information. 
 
 The main objective of this project is to demonstrate RESTful API development, database connectivity, user authentication, role-based authorisation, password security and automated testing.
