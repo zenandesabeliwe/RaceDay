@@ -7,9 +7,9 @@ RaceDay is an System developed using ASP.NET Core Web API and C#. The system all
 The project was developed using Visual Studio 2022 and connected to a SQL Server database. It uses RESTful API endpoints to perform operations such as creating, retrieving, updating and deleting information. 
 
 The main objective of this project is to demonstrate RESTful API development, database connectivity, user authentication, role-based authorisation, password security and automated testing.
+
 ### 2. TECHNOLOGIES USED
 The following technologies were used to develop the RaceDay system:
-
 - **C#:** Used to develop the application and implement its functionality.
 - **ASP.NET Core Web API:** Used to create RESTful API endpoints.
 - **Visual Studio 2022:** Used to write, debug, build and test the application.
