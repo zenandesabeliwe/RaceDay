@@ -97,7 +97,6 @@ Organisers can retrieve participant records and search for individual participan
 Participants can view their own profiles but are prevented from accessing other participants' profiles.
 
 ### 5. AUTHENTICATION AND SECURITY
-
 The RaceDay system implements authentication and role-based authorisation.
 
 Two user roles are supported: Organiser and Participant.
