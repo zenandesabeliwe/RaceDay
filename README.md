@@ -25,7 +25,6 @@ The following technologies were used to develop the RaceDay system:
 
 The system uses a SQL Server database named Raceday.
 The database consists of seven main tables:
-
 1. **Users:** Stores user information, including names, email addresses, phone numbers, passwords and user roles.
 2. **Organisers:** Stores organiser information linked to registered users.
 3. **Participants:** Stores participant information linked to registered users.
