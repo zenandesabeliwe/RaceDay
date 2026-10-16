@@ -10,7 +10,6 @@ The project was developed using Visual Studio 2022 and connected to a SQL Server
 The main objective of this project is to demonstrate RESTful API development, database connectivity, user authentication, role-based authorisation, password security and automated testing.
 
 ### 2. TECHNOLOGIES USED
-
 The following technologies were used to develop the RaceDay system:
 
 - **C#:** Used to develop the application and implement its functionality.
