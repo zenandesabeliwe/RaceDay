@@ -42,7 +42,6 @@ The API connects to SQL Server using ADO.NET and parameterised SQL queries.
 The application contains seven controllers responsible for managing different system operations.
 
 **4.1 AuthController**
-
 The AuthController manages user registration, login and logout.
 
 Users can register as either Organisers or Participants. Passwords are hashed using BCrypt before being stored in the database.
