@@ -23,10 +23,7 @@ The following technologies were used to develop the RaceDay system:
 - **xUnit:** Used to create and execute automated tests.
 - **GitHub and GitHub Actions:** Intended for version control and CI/CD once configured.
 
-### 3. DATABASE IMPLEMENTATION
 
-The system uses a SQL Server database named Raceday.
-The database consists of seven main tables:
 
 1. **Users:** Stores user information, including names, email addresses, phone numbers, passwords and user roles.
 2. **Organisers:** Stores organiser information linked to registered users.
