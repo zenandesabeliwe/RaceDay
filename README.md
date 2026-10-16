@@ -47,7 +47,6 @@ The AuthController manages user registration, login and logout.
 Users can register as either Organisers or Participants. Passwords are hashed using BCrypt before being stored in the database.
 
 During login, the system verifies the entered password against the stored password hash.
-
 Sessions are used to maintain user login information.
 
 **4.2 UsersController**
